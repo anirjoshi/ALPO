@@ -4,7 +4,8 @@ This artifact is the prototype tool ALPO. This is the tool accompanying the pape
 
 The tool has two phases, in the first phase multi-objective monte-carlo tree search is executed, and in the second phase a SAT based verification is executed. We also have the max-sat based solution Synplicate as a part of this artifact. For more details on these procedures, we refer the reader to the paper.
 
-In this artifact we first explain the commands needed to execute the tool. Then we walk-through the creation of a new benchmark. Also, a preliminary documentation of the tool is presented in docs/. To open this, open the file docs/html/index.html in a web-browser. The readme in the following DOI contains all the links.
+In this artifact we first explain the commands needed to execute the tool. Then we walk-through the creation of a new benchmark. Also, a preliminary documentation of the tool is presented in docs/. To open this, open the file docs/html/index.html in a web-browser. The readme in the following DOI contains the tool.
 
 DOI: https://doi.org/10.5281/zenodo.15847338
 
+We will soon update this repository for the next version of the tool. Please feel free to raise issues here.
